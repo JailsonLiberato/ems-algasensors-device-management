@@ -1,1 +1,1 @@
-# ems-algasensors-device-magement
+# ems-algasensors-device-management
